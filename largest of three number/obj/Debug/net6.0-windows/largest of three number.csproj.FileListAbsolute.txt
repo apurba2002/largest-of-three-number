@@ -1,0 +1,17 @@
+E:\c# job report\largest of three number\bin\Debug\net6.0-windows\largest of three number.exe
+E:\c# job report\largest of three number\bin\Debug\net6.0-windows\largest of three number.deps.json
+E:\c# job report\largest of three number\bin\Debug\net6.0-windows\largest of three number.runtimeconfig.json
+E:\c# job report\largest of three number\bin\Debug\net6.0-windows\largest of three number.dll
+E:\c# job report\largest of three number\bin\Debug\net6.0-windows\largest of three number.pdb
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.csproj.AssemblyReference.cache
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest_of_three_number.Form1.resources
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.csproj.GenerateResource.cache
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.AssemblyInfoInputs.cache
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.AssemblyInfo.cs
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.csproj.CoreCompileInputs.cache
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.dll
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\refint\largest of three number.dll
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.pdb
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\largest of three number.genruntimeconfig.cache
+E:\c# job report\largest of three number\obj\Debug\net6.0-windows\ref\largest of three number.dll

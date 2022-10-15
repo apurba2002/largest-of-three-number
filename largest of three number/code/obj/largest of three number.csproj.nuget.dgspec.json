@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\c# job report\\largest of three number\\code\\largest of three number.csproj": {}
+  },
+  "projects": {
+    "E:\\c# job report\\largest of three number\\code\\largest of three number.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c# job report\\largest of three number\\code\\largest of three number.csproj",
+        "projectName": "largest of three number",
+        "projectPath": "E:\\c# job report\\largest of three number\\code\\largest of three number.csproj",
+        "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
+        "outputPath": "E:\\c# job report\\largest of three number\\code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\MOST IMPORTANT\\visual studio\\instalation\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
